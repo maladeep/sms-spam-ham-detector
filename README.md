@@ -16,3 +16,9 @@ The approach for this  project  is align more with Artificial Intelligence Cours
 
 Live at: [Spam or Ham | SMS Detector](https://sms-spam-ham-detector.herokuapp.com)
 
+
+
+# Sneak Peek
+
+
+![Web Screenshot](/images/webscreen.png)
