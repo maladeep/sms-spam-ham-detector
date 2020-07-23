@@ -10,9 +10,11 @@ The approach for this  project  is align more with Artificial Intelligence Cours
 
 
 
-
-
 > The approach for this project align more with Artificial Intelligence (COMP 472) course.
+
+
+![sms-spam-ham-detector](https://user-images.githubusercontent.com/25213850/88257771-3f98b580-ccde-11ea-9e03-c1b5323ab387.gif)
+
 
 
 **Live at:** [Spam or Ham | SMS Detector](https://sms-spam-ham-detector.herokuapp.com)
