@@ -3,14 +3,10 @@
 A simple web app to detect SMS as spam or ham(not spam) using Python Flask and Naïve Bayes classifiers.
 
 
-
-The approach for this  project  is align more with Artificial Intelligence Courseware.
-
+### Blog at:[Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-sms-spam-or-ham-detector-aec467aecd85)
 
 
-
-
-> The approach for this project align more with Artificial Intelligence (COMP 472) course.
+> The approach for this project aligns more with Artificial Intelligence (COMP 472) course.
 
 
 ![sms-spam-ham-detector](https://user-images.githubusercontent.com/25213850/88257771-3f98b580-ccde-11ea-9e03-c1b5323ab387.gif)
